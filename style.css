@@ -1,0 +1,54 @@
+body{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-position: margin top: 400px;
+} 
+
+h1{
+	text-align: center;
+	position: margin-top: 300px;
+	color: white;
+	font-family: Arial;
+}
+
+p{
+	color: black;
+	font-family: Calibri;
+	font-size: 30px;
+}
+
+.slider{
+	width: 85%;
+	height: 30px;
+}
+
+
+.container {
+  background-color: #F0FFFF;
+  padding: 4%;
+  border-radius: 2%;
+  width: 40%;
+  margin: 5% auto;
+  text-align: center;
+  box-shadow: 5px 5px 5px 5px #dbb4ad;
+}
+
+
+
+
+/*label{
+	color:white;
+	font-size : 20px;
+	margin-left: 500px;
+	justify-content: center;
+	align-items: center;
+}
+
+input{
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+
